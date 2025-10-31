@@ -12,10 +12,11 @@ HTML • CSS • JavaScript • React.js • API Integration • GitHub • DSA 
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🎬 IMDB Clone](https://github.com/AryanSankaliya/imdb-clone) | Movie database app using React + API | React, API |
-| [📊 Crypto Tracker](https://github.com/AryanSankaliya/crypto-tracker) | Live crypto price app | React, API |
-| [🧾 Attendance Tracker](https://github.com/AryanSankaliya/Student-Attendance-Traker) | Student attendance web app | HTML, JS |
-| [🇮🇳 About India](https://github.com/AryanSankaliya/about-india) | Simple info website about India | HTML, CSS |
+| 💹 Crypto Tracker | React + API | [View Repo](https://github.com/AryanSankaliya/crypto-tracker-react) |
+| 🚗 Carpooling App | React | [View Repo](https://github.com/AryanSankaliya/carpooling-app) |
+| 📚 Attendance System | JS | [View Repo](https://github.com/AryanSankaliya/attendance-system) |
+| 🛒 Amazon Clone | HTML + CSS | [View Repo](https://github.com/AryanSankaliya/amazon-clone) |
+|  🌍 About India | HTML + CSS | [View Repo](https://github.com/AryanSankaliya/about-india) |
 
 ### 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/AryanSankliay)
