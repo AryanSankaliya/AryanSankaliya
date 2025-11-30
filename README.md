@@ -17,6 +17,8 @@ HTML • CSS • JavaScript • React.js • API Integration • GitHub • DSA 
 | 📚 Attendance System | JS | [View Repo](https://github.com/AryanSankaliya/attendance-system) |
 | 🛒 Amazon Clone | HTML + CSS | [View Repo](https://github.com/AryanSankaliya/amazon-clone) |
 |  🌍 About India | HTML + CSS | [View Repo](https://github.com/AryanSankaliya/about-india) |
+|  🌍 Bhagavat Gita | React + API | [View Repo](https://github.com/AryanSankaliya/bhagavat_gita) |
+
 
 ### 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/AryanSankliay)
