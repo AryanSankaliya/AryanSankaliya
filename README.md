@@ -12,11 +12,11 @@ HTML • CSS • JavaScript • React.js • API Integration • GitHub • DSA 
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 💹 Crypto Tracker | React + API | [View Repo](https://github.com/AryanSankaliya/crypto-tracker-react) |
-| 🚗 Carpooling App | React | [View Repo](https://github.com/AryanSankaliya/carpooling-app) |
-| 📚 Attendance System | JS | [View Repo](https://github.com/AryanSankaliya/attendance-system) |
 | 🛒 Amazon Clone | HTML + CSS | [View Repo](https://github.com/AryanSankaliya/amazon-clone) |
 | 🌍 About India | HTML + CSS | [View Repo](https://github.com/AryanSankaliya/about-india) |
+| 📚 Attendance System | JS | [View Repo](https://github.com/AryanSankaliya/attendance-system) |
+| 🚗 Carpooling App | React | [View Repo](https://github.com/AryanSankaliya/carpooling-app) |
+| 💹 Crypto Tracker | React + API | [View Repo](https://github.com/AryanSankaliya/crypto-tracker-react) |
 | 🕉️ Bhagavat Gita | React + API | [View Repo](https://github.com/AryanSankaliya/bhagavat_gita) |
 
 
