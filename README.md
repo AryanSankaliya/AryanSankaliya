@@ -19,7 +19,7 @@ HTML • CSS • JavaScript • React.js • Node.js • Express • Next.js •
 | 📚 **Attendance System**                 | Simple attendance tracking system      | JavaScript                       | [GitHub](https://github.com/AryanSankaliya/attendance-system)    | [Live](https://attendance-traker-vercel.vercel.app/)                    |
 | 🚗 **Carpooling App**                    | Ride sharing web application           | React                            | [GitHub](https://github.com/AryanSankaliya/carpooling-app)       | —                     |
 | 💹 **Crypto Tracker**                    | Real-time cryptocurrency price tracker | React, API                       | [GitHub](https://github.com/AryanSankaliya/crypto-tracker-react) | — |
-| 🕉️ **Bhagavad Gita App**                | Gita verses with API integration       | React, API                       | [GitHub](https://github.com/AryanSankaliya/bhagavat_gita)        | —                     |
+| 🕉️ **Bhagavad Gita App**                | Gita verses with API integration       | React, API                       | [GitHub](https://github.com/AryanSankaliya/bhagavat_gita)        | [Live](https://bhagavatgitavercel.vercel.app/)                    |
 | 📖 **Digital Library Management System** | Full-stack library management system   | React, Node.js, Express, MongoDB | [GitHub](https://github.com/AryanSankaliya/Library-Management)                                          | —                     |
 | 🪑 **Furniture E-commerce Website**      | Modern furniture shopping website      | React                            | [GitHub](https://github.com/AryanSankaliya/Furniture)                                          | [Live](https://furniturevercel.vercel.app/home) |
 
