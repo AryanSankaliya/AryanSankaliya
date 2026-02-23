@@ -1,12 +1,36 @@
-# 👋 Hi, I'm Aryan Sankaliya  
-💻 Frontend Developer | 🌐 React Enthusiast | ☕ Lifelong Learner
+Hi, I'm Aryan Sankaliya
 
-### 🚀 About Me
-- 🌱 I’m currently learning **4th semester of B.Tech (CSE)**
-- 💡 I love building small projects to improve my skills
-- 📚 Completed Courses: C, Java, JavaScript, React + API Integration, DSA, DBMS-1, HTML, CSS
-- 🔄 Currently Learning: Backend Development (Node.js, Express, Nest.js, Next.js), DBMS-2, Python
-- ⚡ Fun fact: I debug faster with coffee ☕
+Backend-Focused Developer with strong fundamentals in Data Structures and Algorithms and experience building full-stack web applications.
+
+About Me
+
+4th Semester B.Tech (Computer Science Engineering) student
+
+Solved 250+ LeetCode problems to strengthen problem-solving skills
+
+Strong interest in backend development and scalable system design
+
+Comfortable working with REST APIs and database integration
+
+Technical Skills
+
+Languages: Java, JavaScript, Python, C
+
+Frontend: React.js, HTML, CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Core Subjects: Data Structures & Algorithms, DBMS
+
+Currently Learning
+
+Advanced Backend Development
+
+System Design fundamentals
+
+DBMS-2
 
 ### 🧰 Tech Stack
 HTML • CSS • JavaScript • React.js • Node.js • Express • Next.js • Nest.js • API Integration • GitHub • DSA • DBMS • Python
