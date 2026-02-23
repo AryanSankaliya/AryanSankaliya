@@ -1,39 +1,25 @@
-Hi, I'm Aryan Sankaliya
+# Hi, I'm Aryan Sankaliya  
 
 Backend-Focused Developer with strong fundamentals in Data Structures and Algorithms and experience building full-stack web applications.
 
-About Me
+## About Me
+- 4th Semester B.Tech (Computer Science Engineering) student  
+- Solved 250+ LeetCode problems to strengthen problem-solving skills  
+- Strong interest in backend development and scalable system design  
+- Comfortable working with REST APIs and database integration  
 
-4th Semester B.Tech (Computer Science Engineering) student
+## Technical Skills
+- Languages: Java, JavaScript, Python, C  
+- Frontend: React.js, HTML, CSS  
+- Backend: Node.js, Express.js  
+- Database: MongoDB , SQL
+- Core Subjects: Data Structures & Algorithms, DBMS  
 
-Solved 250+ LeetCode problems to strengthen problem-solving skills
+## Currently Learning
+- Backend Development  
+- Software Engineering fundamentals  
+- Advanced DBMS  
 
-Strong interest in backend development and scalable system design
-
-Comfortable working with REST APIs and database integration
-
-Technical Skills
-
-Languages: Java, JavaScript, Python, C
-
-Frontend: React.js, HTML, CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Core Subjects: Data Structures & Algorithms, DBMS
-
-Currently Learning
-
-Advanced Backend Development
-
-System Design fundamentals
-
-DBMS-2
-
-### 🧰 Tech Stack
-HTML • CSS • JavaScript • React.js • Node.js • Express • Next.js • Nest.js • API Integration • GitHub • DSA • DBMS • Python
 
 ### 📂 Completed Projects
 | Project                                  | Description                            | Tech Stack                       | Repo                                                             | Live Demo             |
