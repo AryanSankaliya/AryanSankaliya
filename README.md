@@ -33,7 +33,7 @@ Backend-Focused Developer with strong fundamentals in Data Structures and Algori
 | 🕉️ **Bhagavad Gita App**                 | Gita verses with API integration                 | React, API                          | [GitHub](https://github.com/AryanSankaliya/bhagavat_gita)         | [Live](https://bhagavatgitavercel.vercel.app/) |
 | 📖 **Digital Library Management System** | Full-stack library management system             | React, Node.js, Express, MongoDB    | [GitHub](https://github.com/AryanSankaliya/Library-Management)    | [Live](https://librarymanagementvercel.vercel.app/login) |
 | 🪑 **Furniture E-commerce Website**      | Modern furniture shopping website                | React                               | [GitHub](https://github.com/AryanSankaliya/Furniture)             | [Live](https://furniturevercel.vercel.app/home) |
-| ⛳ **Golf Game**                          | Interactive golf game with user controls         | React, Node.js, Express, MongoDB | [GitHub](https://github.com/AryanSankaliya/Golf-app))                                     | [Live](https://golf-appvercel.vercel.app/)        |
+| ⛳ **Golf Game**                          | Interactive golf game with user controls         | React, Node.js, Express, MongoDB | [GitHub](https://github.com/AryanSankaliya/Golf-app)                                     | [Live](https://golf-appvercel.vercel.app/)        |
 | 🛠️ **SRMS (Service Request System)**     | Service request management system (full-stack)   | React, Node.js, Express, MongoDB    | [GitHub](https://github.com/AryanSankaliya/Service-Request-Management-System)                                    | [Live](https://service-request-management-systemve.vercel.app/login)       |
 
 
