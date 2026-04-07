@@ -4,7 +4,7 @@ Backend-Focused Developer with strong fundamentals in Data Structures and Algori
 
 ## About Me
 - 4th Semester B.Tech (Computer Science Engineering) student  
-- Solved 250+ LeetCode problems to strengthen problem-solving skills  
+- Solved 300+ LeetCode problems to strengthen problem-solving skills  
 - Strong interest in backend development and scalable system design  
 - Comfortable working with REST APIs and database integration  
 
